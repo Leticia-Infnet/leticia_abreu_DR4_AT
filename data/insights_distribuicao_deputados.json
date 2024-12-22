@@ -1,0 +1,35 @@
+{
+    "governabilidade": [
+        {
+            "primeiro_insight": "O PL, partido do ex-presidente Bolsonaro, detém a maior bancada na Câmara, com 93 deputados, o que lhe confere considerável poder de influência, mas não maioria absoluta.  Essa situação sugere a necessidade de negociação e formação de coalizões para aprovação de projetos, impactando diretamente na governabilidade."
+        },
+        {
+            "segundo_insight": "A pulverização partidária, com diversas siglas representadas na Câmara, como demonstra a presença de 20 partidos,  dificulta a construção de maiorias estáveis e tende a aumentar o custo de governabilidade, exigindo amplas negociações e possíveis concessões por parte do governo."
+        },
+        {
+            "terceiro_insight": "A composição da Câmara, com a presença significativa de partidos do Centrão (como UNIÃO, PP, PSD, REPUBLICANOS e MDB), indica a importância estratégica desse bloco político na formação de maiorias e na aprovação da agenda legislativa do governo. A capacidade de articulação com esses partidos será crucial para a estabilidade política."
+        }
+    ],
+    "pauta_legislativa": [
+        {
+            "primeiro_insight": "A forte presença da oposição (PL, com 93 deputados) sugere uma maior probabilidade de embates e obstruções na pauta legislativa, especialmente em temas sensíveis ao governo. A oposição pode utilizar instrumentos regimentais para dificultar a tramitação de projetos e exercer pressão política."
+        },
+        {
+            "segundo_insight": "A diversidade ideológica representada na Câmara, com partidos da esquerda (PT, PSOL, PCdoB), centro (UNIÃO, MDB) e direita (PL, REPUBLICANOS),  indica a possibilidade de debates acalorados e a necessidade de construção de consensos para a aprovação de leis.  A tendência é de que projetos polêmicos enfrentem maior resistência e necessitem de negociações."
+        },
+        {
+            "terceiro_insight": "A representatividade de partidos com pautas específicas, como o NOVO (liberal) e o PSOL (esquerda),  pode influenciar a agenda legislativa, trazendo à tona debates sobre temas como reforma tributária,  privatizações e políticas sociais. A pressão desses grupos pode levar à inclusão de seus temas na pauta de discussões da Câmara."
+        }
+    ],
+    "representatividade_popular": [
+        {
+            "primeiro_insight": "A distribuição das cadeiras na Câmara reflete, em certa medida, a pluralidade do eleitorado brasileiro, com a representação de diferentes correntes ideológicas e interesses regionais. A fragmentação partidária, apesar de dificultar a governabilidade, pode ser vista como um reflexo da diversidade da sociedade."
+        },
+        {
+            "segundo_insight": "A presença de pequenos partidos, com poucos representantes, pode dificultar a expressão de suas pautas e a influência na agenda legislativa.  A necessidade de alianças e negociações com blocos maiores pode levar à diluição de suas propostas originais."
+        },
+        {
+            "terceiro_insight": "A análise da composição partidária da Câmara permite identificar as forças políticas dominantes e suas respectivas agendas, possibilitando à sociedade civil um acompanhamento mais informado do processo legislativo e a cobrança de seus representantes. A transparência na divulgação desses dados é fundamental para o exercício da cidadania."
+        }
+    ]
+}

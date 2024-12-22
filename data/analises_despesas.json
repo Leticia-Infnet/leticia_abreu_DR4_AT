@@ -1,0 +1,41 @@
+{
+    "analise_tipo_despesa": {
+        "top_3_despesas": {
+            "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.": 76991175.62,
+            "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES": 35981389.46,
+            "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR": 28088941.48
+        },
+        "menor_3_despesas": {
+            "ASSINATURA DE PUBLICAÇÕES": 65476.49,
+            "PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR": 45791.22,
+            "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS": 14117.73
+        },
+        "media_despesas": 11093731.04611111
+    },
+    "analise_partido": {
+        "top_3_partidos": {
+            "PL": 35064769.14,
+            "PT": 27392640.2,
+            "UNIÃO": 23983757.78
+        },
+        "menor_3_partidos": {
+            "REDE": 378406.25,
+            "NOVO": 377565.83,
+            "S.PART.": 24389.05
+        },
+        "media_partidos": 9508912.325238096
+    },
+    "analise_uf": {
+        "top_3_ufs": {
+            "SP": 24580261.3,
+            "MG": 20483145.62,
+            "RJ": 15942324.71
+        },
+        "menor_3_ufs": {
+            "TO": 3056403.43,
+            "MT": 2871078.84,
+            "SE": 2445663.65
+        },
+        "media_ufs": 7395820.697407408
+    }
+}

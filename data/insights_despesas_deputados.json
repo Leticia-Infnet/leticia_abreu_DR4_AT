@@ -1,0 +1,20 @@
+{
+    "insights_analise_tipo_despesa": [
+        "A 'DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR' representa o maior gasto entre os deputados, superando em mais de 40 milhões o segundo colocado.  Isso sugere uma forte ênfase na comunicação com o público, o que pode indicar tanto uma busca por transparência quanto uma preocupação com a construção da imagem política.",
+        "As despesas com 'LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES' ocupam o segundo lugar no ranking, indicando a importância da mobilidade para o exercício do mandato parlamentar.  É importante investigar se esses gastos estão alinhados com as necessidades reais e se existem alternativas mais econômicas.",
+        "As três menores despesas ('ASSINATURA DE PUBLICAÇÕES', 'PARTICIPAÇÃO EM CURSO, PALESTRA OU EVENTO SIMILAR' e 'AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS') representam valores significativamente inferiores às demais, sugerindo um baixo investimento em qualificação e atualização profissional, bem como em acesso a informações relevantes.  Seria interessante incentivar o uso desses recursos para aprimorar o desempenho parlamentar.",
+        "A média de gastos por tipo de despesa é de aproximadamente 11 milhões, demonstrando uma grande variabilidade entre as categorias.  Essa discrepância reforça a necessidade de uma análise mais detalhada de cada tipo de despesa para identificar possíveis distorções e otimizar a alocação de recursos."
+    ],
+    "insights_analise_partido": [
+        "O PL, PT e UNIÃO lideram os gastos, concentrando uma parcela significativa dos recursos da Câmara.  Essa concentração pode refletir o tamanho das bancadas desses partidos ou indicar diferenças nas prioridades de gastos em relação aos demais.",
+        "A diferença entre os gastos do PL (primeiro colocado) e da UNIÃO (terceiro colocado) é de mais de 11 milhões, o que demonstra uma disparidade considerável entre os partidos com maiores gastos.  Vale a pena investigar os fatores que contribuem para essa diferença, como número de parlamentares e distribuição geográfica.",
+        "Os partidos REDE, NOVO e S.PART. apresentam os menores valores de despesas.  Isso pode estar relacionado ao tamanho reduzido de suas bancadas ou a uma política de austeridade nos gastos.  É importante analisar se essa diferença impacta na capacidade desses partidos de exercerem suas funções parlamentares.",
+        "A média de gastos por partido é de aproximadamente 9,5 milhões,  consideravelmente menor que a média de gastos por tipo de despesa.  Isso sugere que a distribuição de recursos entre os partidos é mais homogênea do que a distribuição entre os diferentes tipos de despesas."
+    ],
+    "insights_analise_uf": [
+        "São Paulo, Minas Gerais e Rio de Janeiro, estados com as maiores bancadas na Câmara,  lideram os gastos, o que indica uma correlação entre o número de representantes e o volume de recursos utilizados.  Essa concentração de recursos em estados com maior representatividade pode gerar desigualdades na alocação de verbas para as demais unidades federativas.",
+        "A diferença entre os gastos de SP (primeiro) e RJ (terceiro) é de aproximadamente 8,6 milhões,  demonstrando uma variação significativa nos gastos mesmo entre os estados com maior representatividade.  Fatores como o custo de vida e a infraestrutura local podem influenciar essa diferença.",
+        "Tocantins, Mato Grosso e Sergipe apresentam os menores valores de despesas.  Isso pode estar relacionado à menor representatividade desses estados na Câmara ou a uma demanda menor por recursos.  É fundamental avaliar se a alocação de recursos está atendendo às necessidades específicas de cada unidade federativa, independentemente de seu tamanho ou representatividade.",
+        "A média de gastos por UF é de aproximadamente 7,4 milhões,  a menor entre as três análises realizadas.  Isso sugere uma distribuição mais equilibrada dos recursos entre os estados, embora ainda existam diferenças significativas."
+    ]
+}
